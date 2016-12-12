@@ -2,6 +2,9 @@
 Para poder utilizar SIFT, SURF y otros algoritmos se necesitan
 modulos extras de CV2 (openCV2_contrib); se pueden encontrar aqui:
 https://github.com/opencv/opencv_contrib
+
+mas informacion sobre al algrotimo en:
+http://docs.opencv.org/3.1.0/da/df5/tutorial_py_sift_intro.html
 '''
 import cv2
 import numpy as np
