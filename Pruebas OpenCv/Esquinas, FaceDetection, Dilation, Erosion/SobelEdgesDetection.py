@@ -20,6 +20,7 @@ canny = cv2.Canny(img, 50, 240) #imagen, low trshold value, high treshold
 cv2.imshow('Canny', canny)
 
 cv2.waitKey(0)
+cv2.destroyAllWindows()
 
 '''Motion horizontal Blurring effect kernel
     [0 0 0]
